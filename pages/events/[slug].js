@@ -1,7 +1,9 @@
+import Layout from "../../components/Layout"
+
 export default function SingleEvent() {
     return (
-        <div>
+        <Layout>
             <h1>Single Event</h1>
-        </div>
+        </Layout>
     )
 }
